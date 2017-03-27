@@ -1,2 +1,2 @@
-class FriendsController < ApplicationController
+class FriendsController < JSONAPI::ResourceController
 end
